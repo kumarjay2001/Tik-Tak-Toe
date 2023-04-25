@@ -17,3 +17,5 @@ How to Play
 
 Contributions
 If you have any suggestions for improvements or new features, feel free to open an issue or pull request on this repository. All contributions are welcome!
+
+[Link](https://www.github.com/kumarjay2001/Tik-Tak-Toe/index.html)
